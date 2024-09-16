@@ -1,0 +1,37 @@
+body {
+  background-color: #2f4156;
+  color: #f5efeb;
+}
+
+.header {
+    padding: 40px;
+    text-align: center;
+    font-size: 25px;
+  }
+
+.footer {
+  display: block;
+  text-align: center;
+}
+
+.projects {
+    list-style-type: upper-roman;
+}
+
+.subskills {
+  list-style-type: lower-roman;
+}
+
+.font-design {
+  font-family: "Oxygen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.linki {
+  color: white;
+}
+
+.super-bold {
+  font-weight: bold;
+}
